@@ -1,4 +1,4 @@
-<h3>This project is a simple yet useful todo-list application built using Express.js and MySQL that allows users to manage their tasks and keep track of their progress.The application's features include:</h3>
+<h3>This project is a simple yet useful todo-list application built using Express.js and MySQL that allows users to manage their tasks and keep track of their progress. The application's features include:</h3>
 
 - **Current date:** The application displays the current date.
 
